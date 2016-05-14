@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+header{
+	clear: both;
+	overflow: auto;
+	width: 100%;
+
+}
+
+body{
+	background-color: #dddddd;
+}
+
+.myname{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background: #4aaaa5;
+	padding: 30px;
+	float:left;
+	margin-left: 320px;
+	color: #ffffff;
+}
+
+.mainheader{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background: #ffffff;
+	padding: 30px;
+	margin-bottom: 30px;
+	color: #777777;
+}
+
+h1{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	margin-bottom: 20px;
+	color: #4aaaa5;
+}
+
+h2{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+	margin-bottom: 20px;
+	color: #4aaaa5;
+}
+
+aside{
+	clear: both;
+	overflow: auto;
+}
+
+/*.pic{
+	style="width:152px;height:114px;"
+}
+
+.pic1{
+	style="width:64px;height:64px;"
+}
+
+.pic2{
+	style="width:64px;height:64px;"
+}
+
+.pic3{
+	style="width:64px;height:64px;"
+}*/
+
+.connect{
+	background: white;
+	padding: 50px;
+	float: right;
+	margin-right: 600px;
+}
+
+.aboutme{
+	/*text-align: left;*/
+	background: white;
+	padding: 50px;
+	float: left;
+	margin-left: 320px;
+}
+
+footer{
+	padding: 50px;
+	background-color: #666666;
+	margin-top: 344px;
+}
+
+.boxed {
+  border: 1px solid green ;
+}
